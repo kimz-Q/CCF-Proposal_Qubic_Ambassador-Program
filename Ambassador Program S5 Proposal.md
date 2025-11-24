@@ -141,7 +141,7 @@ The season covers a period of 2 months with a possible extension if the Qubic pr
 
 ## **Budget**
 
-![](media/image1.png){width="6.267716535433071in" height="3.388888888888889in"}
+![Budget Allocation](Picture1.png)
 
 Funds are allocated to communities on a monthly basis. We only provide funding after the agreed progression has been achieved. We will provide monthly reporting to the community in the #ambassador channel.
 
