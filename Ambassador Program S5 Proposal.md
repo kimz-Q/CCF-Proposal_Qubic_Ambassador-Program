@@ -1,4 +1,4 @@
-# **CCF Proposal - Ambassador Program SO5**
+# **CCF Proposal - Ambassador Program S5**
 
 ## **CCF Proposal**
 
