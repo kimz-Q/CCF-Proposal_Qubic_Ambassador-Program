@@ -86,7 +86,7 @@ The season covers a period of 2 months with a possible extension if the Qubic pr
 | Retention | Active ambassador retention | 80% |
 | Decentralization | Self-managed chapters | 13+ |
 
-**Season 4 Review**
+## **Season 4 Review**
 
 ### **KPI Summary**
 
