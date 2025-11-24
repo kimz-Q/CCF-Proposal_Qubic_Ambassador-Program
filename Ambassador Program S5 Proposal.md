@@ -66,7 +66,7 @@ The season covers a period of 2 months with a possible extension if the Qubic pr
 
 - **Event Participation**:Drive the successful delivery and impact of a global event portfolio. Key initiatives include managing Hack the Future and cryptoXR, while expanding our footprint through dedicated events in Vietnam and China, and leveraging the LATAM partnership with CryptoConection.
 
-- **Unlock investors:**create a visible pathway for investors to understand, evaluate, and participate in Qubic's growth by providing a clear info pack for investors , participating in local crypto group/ Web3 Meetups.
+- **Unlock investors**create a visible pathway for investors to understand, evaluate, and participate in Qubic's growth by providing a clear info pack for investors , participating in local crypto group/ Web3 Meetups.
 
 - **Strengthen current and new communities** (USA, South Korea, and Japan) and launch new ones in important strategic locations in Asia (Singapore)and Argentina.
 
