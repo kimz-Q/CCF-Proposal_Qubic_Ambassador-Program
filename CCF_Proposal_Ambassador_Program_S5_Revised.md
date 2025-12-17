@@ -30,7 +30,8 @@ Despite market volatility impacting treasuries and morale, Qubic sees a strategi
 - Activation of Universities/institutional potentials.
 - Events & Hackathons Organizing.
 
-**Landing page:** [Qubic Ambassador Program S5](https://vigorous-age-313.notion.site/ebd//2c10403da23a802cb8e3ca5608bac4f3)
+### **Landing page:** 
+[Qubic Ambassador Program S5](https://vigorous-age-313.notion.site/ebd//2c10403da23a802cb8e3ca5608bac4f3)
 
 ## **Season 4: Impact & Achievements Summary**
 
@@ -110,7 +111,7 @@ Monthly report will be shared to the community through landing page where they c
 
 Ambassadors earn rewards by completing tasks for their community, such as creating content, newsletters, videos, organizing events, helping the ecosystem/marketing teams or other things that help grow the Qubic ecosystem. Program Managers and Community Leads are paid a monthly compensation, depending on the impact they had. Their impact is measured through the KPI's mentioned above.
 
-![Budget & Governance](Budget snapshot.png)
+![Budget](Budgetsnapshot.png)
 
 ## **Benchmarks**
 
