@@ -32,7 +32,7 @@ Despite market volatility impacting treasuries and morale, Qubic sees a strategi
 
 ### **Landing page:** 
 [Qubic Ambassador Program S5](https://vigorous-age-313.notion.site/ebd//2c10403da23a802cb8e3ca5608bac4f3)
-
+![Landing page](Picture3.png)
 ## **Season 4: Impact & Achievements Summary**
 
 The Qubic Ambassador Program Season 4 has demonstrated exceptional impact across multiple continents, achieving unprecedented visibility and engagement in the blockchain community. The program successfully executed strategic initiatives across France, Spain, Japan, Nigeria, China, DACH region, USA, and Vietnam, establishing Qubic as a prominent decentralized computing platform in the web3 ecosystem.
