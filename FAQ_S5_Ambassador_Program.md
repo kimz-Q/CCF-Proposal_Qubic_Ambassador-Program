@@ -70,6 +70,48 @@ Over-incentivizing "shilling," unclear guidelines, and brand dilution. Mitigate 
 
 All Ambassadors agree with the [Qubican Code of Conduct](https://docs.google.com/document/d/1JusVxQgzAgmzPBJWUKzpQYl7tkJNNmJANPszoTHCZv4/edit?usp=sharing) before they join the program. Failing to comply will result in a warning or expulsion from the Ambassador Program.
 
+**Is the Ambassador Program actually useful?**
+Yes. After more than a year of consistent operation, the program has demonstrated clear, measurable impact. A prime example is the OKX campaign, where the majority of verified sign-ups originated directly from ambassador communities.
+
+**Why don’t ambassadors work voluntarily?**
+Expanding Qubic in 11 global regions requires real operational effort,organizing events, producing content, driving local growth, and onboarding new users and developers. These actions carry costs. Like all reputable ambassador programs in the crypto space , incentives are essential to attract and retain committed contributors.
+
+**With the market down, why spend CCF funds now?**
+We are highly aware of market conditions.
+For Season 5:
+- We reduced total expenses by  $20k compared to S4.
+- We budgeted at 1k USD/bln, absorbing a ~30% reduction ourselves.
+- We self-funded November activities without requesting support.
+
+**How do you ensure transparency and accountability?**
+All community payments are publicly trackable through the shared expense sheet. Additionally, the accountability structure is clear:
+PMs → CLs → Ambassadors,
+and funds are withheld in cases of underperformance.
+
+**The program used to be cheap. Why is the cost now similar to other workgroups?**
+The program has grown significantly in scope, community size, and output. Increased activity naturally requires increased resources. Even today, our cost remains below industry standards for programs with similar scale and reach.
+
+**Is the program centralized?**
+We operate through a structured system:
+- A central HQ Discord for coordination
+- Community Leads and PMs aligned through weekly discussions
+- A quorum where all CLs vote on major decisions
+This ensures quality, continuity, and alignment, while preventing any single entity from dominating the program. so it's an advantage not dis advantage.
+
+**What about people who contribute without incentives?**
+We appreciate all organic contributors but it's personal choice , and anyone is welcome to join formally if they want access to resources, training, and structured tasks with incentive.
+
+**How do you count X impressions, and how is quality ensured?**
+Each Community Lead consolidates metrics using X Analytics, which provides verified engagement data.To ensure quality, we conduct:
+- Training on content creation and writing
+- Guidance on tools like Canva
+- Continuous feedback on post structure and messaging
+
+**How does the ambassador program support events?**
+We operate on two tiers:
+- Major events: We provide logistical support, merchandise, hackathon coordination, and facilitate official participation when event costs exceed community budgets.
+- Local events: Communities independently organize meetups for recruitment, education, and brand awareness within their allocated budget.
+
 **Who's on the team?**
 
 | Role | Name | Description |
